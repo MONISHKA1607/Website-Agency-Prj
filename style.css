@@ -12,6 +12,13 @@ body {
 
 h1 {
   font-size: 5rem;
+  color: midnightblue;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+h1 span {
+  color: #ff4b2b;
 }
 
 footer {
@@ -27,6 +34,10 @@ footer {
 
 .card {
   width: 45%;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .left {
